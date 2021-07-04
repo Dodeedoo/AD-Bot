@@ -1,0 +1,24 @@
+{
+  "name": "ad-bot",
+  "version": "1.0.0",
+  "description": "poop",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mineflayer": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dodeedoo/ad-bot-cool.git"
+  },
+  "author": "Dodoodoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dodeedoo/ad-bot-cool/issues"
+  },
+  "homepage": "https://github.com/Dodeedoo/ad-bot-cool#readme"
+}
