@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dodeedoo/ad-bot-cool.git"
+    "url": "git+https://github.com/Dodeedoo/AD-Bot.git"
   },
   "author": "Dodoodoo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dodeedoo/ad-bot-cool/issues"
+    "url": "https://github.com/Dodeedoo/AD-Bot/issues"
   },
   "homepage": "https://github.com/Dodeedoo/ad-bot-cool#readme"
 }
