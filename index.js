@@ -6,8 +6,8 @@ let prefix = ".";
 let bot = mineflayer.createBot({
     version: "1.16.5",
     host: "minehut.com",
-    username: "ianngrover@gmail.com",
-    password: "Ing10142002!"
+    username: "corbiNdodez@gmail.com",
+    password: "Nibroc95!"
 })
 
 client.on("ready", async => {
