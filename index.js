@@ -20,6 +20,7 @@ bot.on("login", async => {
 
 
 bot.on('chat', (username, message) => {
+    console.log('recived message!')
     if (message.includes('join')) {
         let channel = client.channels.cache.get('861036037089394688')
         channel.send(`${username}: ${message}`)
@@ -30,8 +31,8 @@ bot.on('kicked', (reason, loggedin) => {
     let bot = mineflayer.createBot({
         version: "1.16.5",
         host: "minehut.com",
-        username: "ianngrover@gmail.com",
-        password: "Ing10142002!"
+        username: "corbiNdodez@gmail.com",
+        password: "Nibroc95!"
     })
     console.log('kicked! rejoining...')
 })
